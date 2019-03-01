@@ -15,9 +15,9 @@
 	<description>Demo project for Spring Boot</description>
 
 	<scm>
-		<url>https://github.com/kevinsawicki/github-maven-example</url>
-		<connection>scm:git:git://github.com/kevinsawicki/github-maven-example.git</connection>
-		<developerConnection>scm:git:git@github.com:kevinsawicki/github-maven-example.git</developerConnection>
+		<url>https://github.com/thirajade/release-plugin-demo</url>
+		<connection>scm:git:git://github.com/thirajade/release-plugin-demo.git</connection>
+		<developerConnection>scm:git:git@github.com:thirajade/release-plugin-demo.git</developerConnection>
 	</scm>
 
 	<properties>
